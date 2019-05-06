@@ -1,0 +1,10 @@
+C:\Users\Gaous\source\repos\Car dealership\Car dealership\bin\Debug\Car dealership.exe.config
+C:\Users\Gaous\source\repos\Car dealership\Car dealership\bin\Debug\Car dealership.exe
+C:\Users\Gaous\source\repos\Car dealership\Car dealership\bin\Debug\Car dealership.pdb
+C:\Users\Gaous\source\repos\Car dealership\Car dealership\obj\Debug\Car dealership.csprojAssemblyReference.cache
+C:\Users\Gaous\source\repos\Car dealership\Car dealership\obj\Debug\Car_dealership.Form1.resources
+C:\Users\Gaous\source\repos\Car dealership\Car dealership\obj\Debug\Car_dealership.Properties.Resources.resources
+C:\Users\Gaous\source\repos\Car dealership\Car dealership\obj\Debug\Car dealership.csproj.GenerateResource.cache
+C:\Users\Gaous\source\repos\Car dealership\Car dealership\obj\Debug\Car dealership.csproj.CoreCompileInputs.cache
+C:\Users\Gaous\source\repos\Car dealership\Car dealership\obj\Debug\Car dealership.exe
+C:\Users\Gaous\source\repos\Car dealership\Car dealership\obj\Debug\Car dealership.pdb
